@@ -1,0 +1,12 @@
+{
+  "name": "svg-lab",
+  "displayName": "SVG Lab",
+  "version": "1.0.0",
+  "description": "Let Cursor design app screens, landing pages, icons, illustrations and charts in SVG Lab. SVG Lab's Design Engine builds them as real, editable vectors with proper layout, spacing, type and colour, saves them to your SVG Lab project, and exports SVG, PNG, PDF or code.",
+  "author": { "name": "SVG Lab", "email": "usman@svglab.app" },
+  "homepage": "https://svglab.app/mcp-server",
+  "repository": "https://github.com/ottoman9/svglab-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["design", "ui", "svg", "icons", "illustration", "mcp"],
+  "logo": "assets/logo.svg"
+}
